@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.f3794d7b.css",
-    "main.js": "/static/js/main.0f77746f.js",
+    "main.css": "/static/css/main.f7830b24.css",
+    "main.js": "/static/js/main.5465d17d.js",
     "static/js/453.59e88dbd.chunk.js": "/static/js/453.59e88dbd.chunk.js",
     "static/media/qweather-icons.ttf?": "/static/media/qweather-icons.6f240b9f70b8981cae3c.ttf",
     "static/media/qweather-icons.woff?": "/static/media/qweather-icons.9e411b1706a395c55a39.woff",
     "static/media/qweather-icons.woff2?": "/static/media/qweather-icons.8d18dd83e8c222b89a20.woff2",
     "index.html": "/index.html",
-    "main.f3794d7b.css.map": "/static/css/main.f3794d7b.css.map",
-    "main.0f77746f.js.map": "/static/js/main.0f77746f.js.map",
+    "main.f7830b24.css.map": "/static/css/main.f7830b24.css.map",
+    "main.5465d17d.js.map": "/static/js/main.5465d17d.js.map",
     "453.59e88dbd.chunk.js.map": "/static/js/453.59e88dbd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3794d7b.css",
-    "static/js/main.0f77746f.js"
+    "static/css/main.f7830b24.css",
+    "static/js/main.5465d17d.js"
   ]
 }
